@@ -1,6 +1,5 @@
 # facescan_gdsc
 
-# FaceScan Project
 
 ## Project Overview
 
