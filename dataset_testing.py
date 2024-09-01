@@ -193,3 +193,4 @@ def open_camera():
 
 # Run the camera function
 open_camera()
+
